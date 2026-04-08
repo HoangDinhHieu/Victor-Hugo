@@ -37,4 +37,8 @@ Cửa sổ File Explorer thấy 2 file .mdf và .ldf
 8. Import dữ liệu từ file csv mẫu vào trong bảng vừa tạo
 <img width="1920" height="1080" alt="2026-04-08 (9)" src="https://github.com/user-attachments/assets/b9e1aec5-82c3-4eeb-b324-24a990400880" />
 
+9. Kiểm tra xem số dòng của bảng dữ liệu sau khi import: Kết quả sẽ ok sẽ khoảng 12020 dòng.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06d0bd6d-73c7-4b2b-878f-c78baf8141e1" />
+
+
 
