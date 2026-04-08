@@ -44,5 +44,13 @@ Gõ lệnh: `SELECT COUNT(*) AS TongSoDong FROM SinhVien;`
 
 10. INSERT thông tin cá nhân
 
+Gõ lệnh: `INSERT INTO SinhVien (masv, hotensv, malop, ngaysinh, noisinh, diachi)
+VALUES ('K235480106025', N'Hoàng Đình Hiếu ', 'K59.KMT.K01', '01/01/2005', 
+        N'Bắc Ninh', N'Mỹ Thái, Bắc Ninh');
+select * from SinhVien where masv='K235480106025'`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a3d76c4f-4d71-4e96-ac72-2fb2f4626a73" />
+
+11. Cập nhật(update) noisinh thành 'Sao Hỏa' cho những dòng có noisinh và diachia đều là NULL
+
 
 
