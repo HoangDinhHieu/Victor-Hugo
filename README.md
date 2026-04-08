@@ -25,5 +25,16 @@ Windows Authentication và SQL Server authentication.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/17af9168-3e54-4f10-a2cc-9c53de410924" />
 
 6. Tạo Database mới 
+Màn hình SSMS sau khi tạo CaiTriSinhVien xong (Thấy CaiTriSinhVien trong Object Explorer)
+<img width="1920" height="1080" alt="2026-04-08 (6)" src="https://github.com/user-attachments/assets/f62008a9-4367-4566-adaa-4bbad7d3639d" />
+
+Cửa sổ File Explorer thấy 2 file .mdf và .ldf 
+<img width="1920" height="1080" alt="2026-04-08 (7)" src="https://github.com/user-attachments/assets/863942ec-1d68-44ad-91e9-deb87c561431" />
+
+7. Tạo bảng dữ liệu với khóa chính (Primary Key) là trường masv
+<img width="1920" height="1080" alt="2026-04-08 (8)" src="https://github.com/user-attachments/assets/5be4a3d9-8de2-4c87-a220-607337869172" />
+
+8. Import dữ liệu từ file csv mẫu vào trong bảng vừa tạo
+<img width="1920" height="1080" alt="2026-04-08 (9)" src="https://github.com/user-attachments/assets/b9e1aec5-82c3-4eeb-b324-24a990400880" />
 
 
