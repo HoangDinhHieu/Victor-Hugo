@@ -73,5 +73,19 @@ WHERE hotensv LIKE N'Hoàng%';`
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f55a4500-544f-4167-83c9-159a1b42d09a" />
 
 14.Xuất toàn bộ kết quả các bước 6,7,8,9,10,11,12,13 ra file **dulieu.sql**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e31e631-ea52-4d3f-877c-46207ba7533b" />
+
+15. Xóa cơ sở dữ liệu dã tạo, kiểm tra lại path
+
+xóa cơ sở dữ liệu
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64d77dce-ff7c-4a46-922c-51796d4a35dc" />
+
+kiểm tra lại đường dẫn các file sau khi xóa:không còn 2 file CaiTriSinhViem.mdf và CaiTriSinhVien_log.ldf
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/052393c8-4b54-4477-a070-72fa81d88496" />
+
+16. Mở file dulieu.sql của bước 14, chạy toàn bộ các lệnh kết quả được tạo ra tương đương với các bước 6,7,8,9,10,11,12,13
+
+Kiểm tra database từ file dulieu.sql giữ nguyên cấu trúc cũ
+
 
 
