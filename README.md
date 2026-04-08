@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5a70300e-c868-4a0b-a3ec-6d9348e09ad1" /># Victor-Hugo
+# Victor-Hugo
 - Họ và Tên: Hoàng Đình Hiếu
 - Lớp: K59.KMT.K01
 - MSSV: K235480106025
@@ -40,7 +40,9 @@ Cửa sổ File Explorer thấy 2 file .mdf và .ldf
 9. Kiểm tra xem số dòng của bảng dữ liệu sau khi import: Kết quả sẽ ok sẽ khoảng 12020 dòng.
 
 Gõ lệnh: `SELECT COUNT(*) AS TongSoDong FROM SinhVien;`
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06d0bd6d-73c7-4b2b-878f-c78baf8141e1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab2e2c30-94a9-450f-8abf-fdd7016dfdad" />
+
+10. INSERT thông tin cá nhân
 
 
 
