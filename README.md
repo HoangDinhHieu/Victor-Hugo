@@ -52,5 +52,26 @@ select * from SinhVien where masv='K235480106025'`
 
 11. Cập nhật(update) noisinh thành 'Sao Hỏa' cho những dòng có noisinh và diachia đều là NULL
 
+Gõ lệnh: `UPDATE SinhVien
+SET noisinh = N'Sao Hoả'
+WHERE noisinh = 'NULL' AND diachi='NULL';
+select * from SinhVien`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2c0ca648-07d3-477f-b63e-dac325978774" />
+
+12. Tạo bảng SaoHoa gồm những sinh viên có nơi sinh ở 'Sao Hỏa'
+
+Gõ lệnh: `SELECT * INTO SaoHoa
+FROM SinhVien
+WHERE noisinh = N'Sao Hoả';
+select * from SaoHoa`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c296e670-222c-4ca9-8d6c-a2dfd92bf216" />
+
+13. Xóa(delete) trong bảng SaoHoa những sinh viên cùng họ với em (Họ: Hoàng)
+
+Gõ lệnh: `DELETE FROM SaoHoa
+WHERE hotensv LIKE N'Hoàng%';`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f55a4500-544f-4167-83c9-159a1b42d09a" />
+
+14.Xuất toàn bộ kết quả các bước 6,7,8,9,10,11,12,13 ra file **dulieu.sql**
 
 
