@@ -89,10 +89,13 @@ Kiểm tra database từ file dulieu.sql giữ nguyên cấu trúc cũ
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b86d8ac-14fa-4619-99be-2f8a913326e0" />
 
 Kiểm tra dữ liệu khi các bảng tạo lại:
-**Tổng số dòng tằng từ 12020 lên 12021 vì:** 
+**Tổng số dòng tăng từ 12020 lên 12021 vì:** 
 Dữ liệu gốc(CSV): dữ liệu từ file svtnut.csv được import bằng lệnh BULK_INSERT.
 Sau bước 10: Thêm 1 dòng dữ liệu cá nhân(Sinh viên: Hoàng Đình Hiếu).
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1be7ea0c-92cf-4d92-8f52-fa447f31f1a0" />
+
+17. Upload file dulieu.sql lên github repository
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4a68f491-83bb-4dcd-a9fb-ceef9ccb8d02" />
 
 
 
